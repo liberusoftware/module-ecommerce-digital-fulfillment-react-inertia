@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-digital-fulfillment-react-inertia",
+  "capabilityKey": "planned:ecommerce:digital-fulfillment",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-digital-fulfillment-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/digital-fulfillment.md",
+  "presentationPlan": "projects/ecommerce/react/digital-fulfillment.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
